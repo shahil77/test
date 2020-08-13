@@ -1,0 +1,490 @@
+body{
+    background-color:rgb(243, 243, 243);
+    width: 1000px;
+    height: 650px;
+    justify-content: center;
+    display: flex;
+    position: relative;
+ }   
+ #ac{
+     width: 180px;
+     max-height: fit-content;
+     background-color:white;
+     position: relative;
+     left:-287px;
+     top: -8px;
+     margin: none;
+     justify-content: center;
+     border-radius: 0px 0px 10px 10px;
+ }
+ #al{
+        width:260px ;
+        max-height: fit-content;
+        background-color: white;
+        margin: none;
+        position: relative;
+        left:622px;
+        top: -8px;
+        border-radius: 0px 0px 10px 10px;
+
+
+ }
+ #ad{
+width: 850px;
+height: 150px;
+position: absolute;
+left: 20%;
+top: 40px;
+background-color: rgb(255, 218, 212);
+border-radius: 20px;
+}
+#ae{
+    width: 360px;
+    height: 340px;
+    background-color:white;
+    position: absolute;
+    top:220px;
+    left: 20%;
+    border-radius: 10px;
+
+}
+#cr{ width:150px;
+     height:150px ;
+     background-color:rgb(235, 235, 235);
+     position: absolute; 
+     right: 16px; 
+     bottom: 0px;
+     border-radius: 10px;
+     border: none;
+}
+#af{
+    width: 480px;
+    height: 340px;
+    background-color:white;
+    position: absolute;
+    top:220px;
+    left: 57%;
+    border-radius: 10px;
+}
+#ah{
+    width: 270px;
+    height: 53px;
+    background-color: darkblue;
+    position: absolute;
+    top:588px;
+    left: 20%;
+    border-radius: 10px;
+}
+#aj{
+    width: 270px;
+    height: 53px;
+    background-color: rgb(161, 161, 235);
+    position: absolute;
+    top:588px;
+    left: 49%;
+    border-radius: 10px;
+}
+#ak{
+    width: 270px;
+    height: 53px;
+    background-color:  rgb(250, 116, 95);
+    position: absolute;
+    top:588px;
+    left: 78%;
+    border-radius: 10px;
+    }
+#ac h2{
+    font-weight: bolder;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 66px;
+}
+#ac img{
+    position: absolute;;
+    top: 16px;
+    left: 18px;
+}
+#ae h3{
+    padding: 10px;
+    padding-left: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+
+}
+#ae a{
+        position: relative;
+        top:-43px;
+        left: 270px;
+        text-decoration: none;
+        color: black;
+        padding-right: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 13px;
+        font-weight: bolder;
+}
+#ae i{
+    position: relative;
+    top: 3px;
+    padding-left: 15px;
+}
+#ae ul li {
+    list-style:none ;
+    color: gray;
+    padding: 10px;
+    position: relative;
+    top: -60px;
+    left: -10px;
+}
+#ae ul li span{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
+#ae ul .last{
+    position: relative;
+    top: -40px;
+}
+#ae ul hr{
+    width:300px ;
+    position: relative;
+    left:-10px ;
+    color:rgb(243, 243, 243); 
+}
+#ae ul li progress{
+    height: 5px;
+    width: 100px;
+    position: relative;
+    left: 40px;
+    top: -3px;
+    }
+#ae ul li i{
+            padding: 0px;
+            font-size: 12px;
+            position: relative;
+            left: 60px;
+            color: black;
+            font-weight: bolder;
+
+
+}
+#ae ul li  #low{
+color: red;
+
+}
+#ae ul li  #low::-webkit-progress-value{
+color: red;
+
+}
+#ae ul li #two{
+    position: relative;
+    left: 55px;
+}
+#ae ul li #three{
+    position: relative;
+    left: 49px;
+}
+#ae ul li #four{
+    position: relative;
+    left:52px;
+} 
+#af h4{
+    padding: 5px;
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+}
+#af h6{
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    position: absolute;
+    right:50px ;
+    top: -5px;
+}
+#ad h3{
+    color: rgb(224, 102, 81);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 45px;
+    padding-top: 20px;
+
+}
+#ad span{
+    font-weight: bolder;
+}
+#ad p{
+    padding-left: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#ac a{
+    position: relative;
+    top: 60px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+#ac i{
+    padding-right: 20px;
+    color: rgb(59, 187, 230);
+}
+#ac #icon a{
+    color: gray;
+}
+#ac #icon i{
+    color: gray;
+}
+#cr p{
+    font-size: small;
+    color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+#cr span{
+    color: black;
+    font-weight: 900;
+    font-size: 13px;
+    text-shadow: black 0.5px 0.5px ;
+}
+#cr button{
+    background-color: rgb(50, 50, 250);
+    color: white;
+    border-radius: 7px 7px 7px 7px;
+    border: none;
+    height:30px ;
+    width: 120px;
+    position: relative;
+    top: 20px;
+    left:15px;
+}
+#cr a{
+    position:absolute;
+    top: -25px;
+    left: 22px;
+}
+#al img{
+    position: absolute;
+    top: 80px;
+    left:70px;
+    color: gray;
+}
+#al a{
+    text-decoration: none;
+    color: rgb(73, 73, 73);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 5px;
+    left: 25px;
+}
+#iconw i{
+    position: absolute;
+    top: 30px;
+    right: 25px;
+    color:rgb(73, 73, 73);
+}
+#iconx i{
+    position: absolute;
+    top: 210px;
+    left: 185px;
+    color: rgb(62, 62, 253);
+}
+#name h4{
+    position: absolute;
+    top:215px;
+    left:80px ;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#name h5{
+    position: absolute;
+    top:245px;
+    left:110px ;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+#b {
+    
+    width: 30px;
+    height:30px ;
+    background-color:rgb(224, 224, 224);
+    text-align: center;
+    border-radius: 4px 4px 4px 4px;
+    position: absolute;
+    top: 310px;
+    left: 40px;
+}
+#b h4{
+    text-align: center;
+    position: relative;
+    top: -13px;
+   
+}
+#eng{
+    position: absolute;
+    top:285px;
+    left:85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14;
+
+}
+#eng h6{
+    position: relative;
+    top: -15px;
+    color: gray;
+}
+#eng progress{
+    height: 5px;
+    width: 100px;
+    position: absolute;
+    top: 35px;
+    left: 70px;
+}
+#c {
+    
+    width: 30px;
+    height:30px ;
+    background-color:rgb(224, 224, 224);
+    text-align: center;
+    border-radius: 4px 4px 4px 4px;
+    position: absolute;
+    top: 360px;
+    left: 40px;
+}
+#c h4{
+    text-align: center;
+    position: relative;
+    top: -13px;
+   
+}
+#spa{
+    position: absolute;
+    top:335px;
+    left:85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14;
+
+}
+#spa h6{
+    position: relative;
+    top: -15px;
+    color: gray;
+}
+#spa progress{
+    height: 5px;
+    width: 100px;
+    position: absolute;
+    top: 40px;
+    left: 70px;
+}
+#rem{
+    position: absolute;
+    top:395px;
+    left:40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14;
+}
+#rem i{
+    position: relative;
+    left: 200px;
+top: -30px;
+}
+#las{
+ 
+    width: 30px;
+    height:30px ;
+    background-color:rgb(224, 224, 224);
+    text-align: center;
+    border-radius: 4px 4px 4px 4px;
+    position: absolute;
+    top: 450px;
+    left: 40px;
+}
+#las i{
+    position: relative;
+    top: 7px;
+}
+#test{
+    position: absolute;
+    top:433px;
+    left: 85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12;
+    font-weight: bold;
+
+}
+#test h6{
+    position: relative;
+    top: -15px;
+    color: gray;
+}
+#las1{
+    width: 30px;
+    height:30px ;
+    background-color:rgb(224, 224, 224);
+    text-align: center;
+    border-radius: 4px 4px 4px 4px;
+    position: absolute;
+    top: 500px;
+    left: 40px;
+}
+#las1 i{
+    position: relative;
+    top: 7px;
+}
+#work{
+    position: absolute;
+    top:480px;
+    left: 85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12;
+    }
+#work h6{
+    position: relative;
+    top: -12px;
+    color: gray;
+}  
+#las2{
+    width: 30px;
+    height:30px ;
+    background-color:rgb(224, 224, 224);
+    text-align: center;
+    border-radius: 4px 4px 4px 4px;
+    position: absolute;
+    top: 550px;
+    left: 40px;
+}
+#las2 i{
+    position: relative;
+    top: 7px;
+}
+#essey{
+    position: absolute;
+    top:530px;
+    left: 85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12;
+}
+#essey h6{
+    position: relative;
+    top: -12px;
+    color: gray;
+
+}
+#endd{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12;
+    position: absolute;
+    bottom: -20px;
+    left: 70px;
+    text-align: center;
+
+
+}
